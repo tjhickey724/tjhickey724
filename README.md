@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **tjhickey724/tjhickey724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
