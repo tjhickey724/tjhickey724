@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Professor of Computer Science at Brandeis University.
+
+My main research focus currently is developing the [Mastery Learning App](https://github.com/tjhickey724/MasteryLearningApp) and studying the impact of using Equity Grading pedagogy in my classes.
+
